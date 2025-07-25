@@ -122,7 +122,9 @@ Input: `1234` → Output: `4321`
 **Theory:**  
 Each row contains one more star than the previous row, starting from one star. A fundamental example of how loop counters can be used to build incremental structures.
 
-##**✅ Conclusion:**
+---
+
+**✅ Conclusion:**
 Looping constructs are a powerful tool in C++ that allow us to perform repetitive tasks with ease. This experiment provided hands-on experience with various loop types and patterns, enhancing both problem-solving skills and familiarity with syntax. Through these programs, students gain a solid foundation in iterative logic—an essential building block in programming.
 
 
